@@ -291,3 +291,8 @@
   lat: 40.0293704
   lng: -105.2749968
   url: http://www.boulderpython.org/
+  
+- name: Something About Python
+  lat: 40.585258
+  lng: -105.084419
+  url: https://www.meetup.com/Something-about-Python-Meetup/
